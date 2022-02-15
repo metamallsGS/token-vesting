@@ -1,7 +1,7 @@
 [package]
 name = "vesting-contract-cli"
 version = "0.1.0"
-authors = ["Bonfida <contact@bonfida.com>"]
+authors = ["gaurav@metamalls.io"]
 edition = "2018"
 
 [dependencies]
