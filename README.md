@@ -1,12 +1,10 @@
-This code has been audited by Kudelski ✅
 
-- Audit report: [Bonfida Token Vesting Report](/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf)
 
 # Token vesting contract
 
 ## UI
 
-[Bonfida Token Vesting UI](https://vesting.bonfida.com)
+[Metamalls Token Vesting UI](https://vesting.bonfida.com)
 
 ## Goal
 
