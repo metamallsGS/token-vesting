@@ -7,7 +7,7 @@ Run `yarn` in the `js` directory to install the node modules. Run `yarn dev` to 
 Contract address on Devnet
 
 ```
-DLxB9dSQtA4WJ49hWFhxqiQkD9v6m67Yfk9voxpxrBs4
+FhNbZ87io3fvp3f9Q3ggeJLQhNTEPCsuoW8SS1xJYzeN
 ```
 
 See on the [Solana Explorer](https://explorer.solana.com/address/Hj9R6bEfrULLNrApMsKCEaHR9QJ2JgRtM381xgYcjFmQ?cluster=devnet)
